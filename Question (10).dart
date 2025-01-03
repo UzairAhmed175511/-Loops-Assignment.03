@@ -2,7 +2,7 @@ import 'dart:io';
 import 'dart:math';
 
 void main() {
-//   Write a program to display the cube of the number up to an integer.
+// Write a program to display the cube of the number up to an integer.
 // Test Data :
 // Input number of terms : 5
 // Expected Output :
