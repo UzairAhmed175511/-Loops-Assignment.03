@@ -1,10 +1,8 @@
 import 'dart:io';
 
 void main() {
-//   Write a program that prints the multiplication table of a given number
-// using a for loop.
-// Example:
-// Input: 5
+//   Write a program that prints the multiplication table of a given number using a for loop.
+// Example:Input: 5
 // Output:
 // 5 x 1 = 5
 // 5 x 2 = 10
