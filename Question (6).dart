@@ -3,7 +3,6 @@ import 'dart:io';
 void main() {
   //Write a program that counts the number of vowels in a given string
   //using a for loop and if-else condition.
-
   print('enter name or any strings');
   String name = stdin.readLineSync()!;
   String vowels = 'aeiou';
