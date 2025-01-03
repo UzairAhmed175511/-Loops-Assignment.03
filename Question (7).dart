@@ -1,7 +1,6 @@
 void main() {
 //   Implement a code that finds the maximum and minimum elements in a
-//    list using a for loop and if-else condition.
-
+// list using a for loop and if-else condition.
   List numbers = [4, 7, 2, 9, 6, 1, 5, 3, 8];
   int maximum = numbers[0];
   int minimum = numbers[0];
